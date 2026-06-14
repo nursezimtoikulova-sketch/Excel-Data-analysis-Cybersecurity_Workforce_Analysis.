@@ -120,5 +120,4 @@ Final Excel File:
 
 
 *Analyst:Nursezim Toikulova*
-*Date: January 2025*
 *Project: Cybersecurity-Workforce-Analysis*
