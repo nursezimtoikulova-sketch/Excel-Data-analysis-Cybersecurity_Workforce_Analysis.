@@ -4,7 +4,6 @@
 
 * **Dataset:** Cybersecurity Employee Records
 * **Total Employees:** 101
-* **Analysis Date:** January 2025
 * **Tool Used:** Microsoft Excel
 * **Data Fields:**
 
@@ -16,7 +15,7 @@
   * Salary (USD)
   * Start Year
 
-## Raw Dataset-Original employee dataset imported into Excel
+## 1.Raw Dataset-Original employee dataset imported into Excel
 
 <img width="1880" height="907" alt="Image" src="https://github.com/user-attachments/assets/44f8296c-1a4c-4456-92bd-ede626a37381" />
 
@@ -37,26 +36,11 @@
 </body>
 </html>
 
-## Age Analysis
+## 2.Age Analysis
 
 <img width="1887" height="892" alt="Image" src="https://github.com/user-attachments/assets/c411e9b7-2c24-4640-9ea2-4b7e9edf396b" /> 
+<img width="1852" height="897" alt="Image" src="https://github.com/user-attachments/assets/a705e643-4a25-489e-8342-e012a63b6180" />
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Open Excel Document</title>
-</head>
-<body>
-    <h2>Open Excel File</h2>
-    <p>
-        <a href="https://excel.cloud.microsoft/open/onedrive/?docId=BCA6B37C31C88A9F%21s54d4d6d394f04bbcaa12772e04ba1c7e&driveId=bca6b37c31c88a9f" 
-           target="_blank">
-            Click here to open the Excel document
-        </a>
-    </p>
-</body>
-</html>
 
 * Age calculated from Date of Birth
 * Average employee age: 36 years
@@ -66,15 +50,9 @@
 
 
 
-##  Age Distribution
+## 3. Experience Analysis
 
-![Age Analysis](../screenshots/02_age_analysis.png)
-
-> *Employee age distribution chart*
-
----
-
-## Experience Analysis
+<img width="1640" height="785" alt="Image" src="https://github.com/user-attachments/assets/00e96e10-633b-45bb-9ba9-eef9e573a67a" />
 
 * Experience calculated using Start Year
 * Average experience: 6.5 years
@@ -82,17 +60,11 @@
 * Minimum experience: 1 year
 * Most employees fall within the 6–9 year range
 
----
 
-## Screenshot 3 - Experience Distribution
 
-![Experience Analysis](../screenshots/03_experience_analysis.png)
+## 4  Salary Analysis
 
-> *Workforce experience level analysis*
-
----
-
-## Salary Analysis
+<img width="1687" height="862" alt="Image" src="https://github.com/user-attachments/assets/b23d3649-fe2c-4101-89f0-29bc7d0ea194" />
 
 * Minimum salary: $52,000
 * Maximum salary: $245,000
@@ -100,51 +72,10 @@
 * Median salary: $130,000
 * Highest paid position: CISO
 
----
-
-## Screenshot 4 - Salary Distribution
-
-![Salary Analysis](../screenshots/04_salary_analysis.png)
-
-> *Salary distribution across the Cybersecurity workforce*
-
----
-
-## Gender Analysis
-
-* Male employees: 75
-* Female employees: 75
-* Gender split: 50/50
-* Average salaries compared between genders
-
----
-
-## Screenshot 5 - Gender Distribution
-
-![Gender Analysis](../screenshots/05_gender_analysis.png)
-
-> *Gender representation within the organization*
-
----
-
-## Hiring Trend Analysis
-
-* Employee hiring activity analyzed from 2012–2024
-* Peak hiring year: 2018
-* Workforce growth observed through 2020
-* Recent hires are primarily Junior and Intern roles
-
----
-
-## Screenshot 6 - Hiring Trends
-
-![Hiring Trend](../screenshots/06_hiring_trend.png)
-
-> *Annual hiring trend analysis*
-
----
 
 ## Role Category Analysis
+
+<img width="1527" height="851" alt="Image" src="https://github.com/user-attachments/assets/08d88efb-8b3f-436e-b68f-15bf5d62f99a" />
 
 Employees were grouped into Cybersecurity domains:
 
@@ -155,17 +86,13 @@ Employees were grouped into Cybersecurity domains:
 * Digital Forensics
 * Management & Leadership
 
----
-
-## Screenshot 7 - Role Category Analysis
-
-![Role Category](../screenshots/07_role_category.png)
-
-> *Employee distribution by Cybersecurity domain*
-
----
 
 ## Findings
+
+Final Excel File:
+<a href="https://excel.cloud.microsoft/open/onedrive/?docId=BCA6B37C31C88A9F%21s54d4d6d394f04bbcaa12772e04ba1c7e&driveId=bca6b37c31c88a9f" target="_blank">
+    Open Excel Document
+</a>
 
 * The workforce is primarily composed of mid-career professionals.
 * Most employees have between 6 and 9 years of experience.
@@ -175,7 +102,7 @@ Employees were grouped into Cybersecurity domains:
 * Hiring activity increased significantly between 2015 and 2020.
 * Several specialized security domains have limited staffing and may present workforce risks.
 
----
+
 
 ## Recommendations
 
@@ -184,7 +111,6 @@ Employees were grouped into Cybersecurity domains:
 * Expand junior talent recruitment programs.
 * Continue monitoring salary competitiveness across security domains.
 
----
 
 ## Tools Used
 
@@ -192,8 +118,7 @@ Employees were grouped into Cybersecurity domains:
 * Git
 * GitHub
 
----
 
-*Analyst: [Your Name]*
+*Analyst:Nursezim Toikulova*
 *Date: January 2025*
 *Project: Cybersecurity-Workforce-Analysis*
