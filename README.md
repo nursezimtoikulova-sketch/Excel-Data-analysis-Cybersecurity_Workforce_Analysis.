@@ -18,7 +18,7 @@
 
 ## Raw Dataset-Original employee dataset imported into Excel
 
-
+<img width="1880" height="907" alt="Image" src="https://github.com/user-attachments/assets/44f8296c-1a4c-4456-92bd-ede626a37381" />
 
 <!DOCTYPE html>
 <html lang="en">
