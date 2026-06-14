@@ -39,15 +39,34 @@
 
 ## Age Analysis
 
+<img width="1887" height="892" alt="Image" src="https://github.com/user-attachments/assets/c411e9b7-2c24-4640-9ea2-4b7e9edf396b" /> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Open Excel Document</title>
+</head>
+<body>
+    <h2>Open Excel Document</h2>
+    <p>
+        <a href="https://excel.cloud.microsoft/open/onedrive/?docId=BCA6B37C31C88A9F%21s52054b9edf2c40bf952119bec5238bcf&driveId=bca6b37c31c88a9f" 
+           target="_blank">
+            Click here to open the Excel file
+        </a>
+    </p>
+</body>
+</html>
+
 * Age calculated from Date of Birth
 * Average employee age: 36 years
 * Youngest employee: 25 years
 * Oldest employee: 49 years
 * Largest age group: 35–39 years
 
----
 
-## Screenshot 2 - Age Distribution
+
+##  Age Distribution
 
 ![Age Analysis](../screenshots/02_age_analysis.png)
 
